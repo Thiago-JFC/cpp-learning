@@ -1,0 +1,7 @@
+#Temporary files
+*.swo
+*.log
+*.tmp
+#Compiled programs
+*.out
+*.obj
